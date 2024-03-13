@@ -1,0 +1,130 @@
+body{
+    background-color: chartreuse;
+}
+.contenido1
+{
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.caja1
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(16, 12, 236);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 580px;
+    margin: 5px;
+    flex-grow: 2;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+
+}
+.caja11
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(12, 236, 217);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 250px;
+    margin: 5px;
+    flex-grow: 2;
+}
+.caja2
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(191, 30, 212);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 580px;
+    margin: 5px;
+    flex-grow: 4;
+    display: flex;
+    flex-wrap: wrap;
+}
+.caja21
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(236, 12, 12);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 180px;
+    height: 180px;
+    margin: 5px;
+    flex-grow: 2;
+}
+.caja3
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(250, 225, 2);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    height: 580px;
+    margin: 5px;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.caja31
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(113, 236, 12);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 180px;
+    height: 100px;
+    margin: 5px;
+    flex-grow: 2;
+}
+.caja32
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(210, 12, 236);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 100px;
+    height: 165px;
+    margin: 5px;
+    flex-grow: 2;
+}
+.caja33
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(113, 236, 12);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 180px;
+    height: 100px;
+    margin: 5px;
+    flex-grow: 2;
+}
+.caja34
+{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(210, 12, 236);
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 100px;
+    height: 165px;
+    margin: 5px;
+    flex-grow: 2;
+}
